@@ -39,10 +39,10 @@ This project provides Python and Jupyter Notebook-based scripts for inserting la
 
 ## 📌 Notes
 
-- ✅ PostgreSQL insertion requires valid IP, port, user credentials.
-- ✅ MS SQL insertion uses ODBC Driver 17 — ensure it's installed on your machine.
-- ✅ Schema is defined (`public`) for Postgres, but not for MS SQL.
-- ❗ Be careful with hardcoded credentials (replace them with env vars for production use).
+-  PostgreSQL insertion requires valid IP, port, user credentials.
+-  MS SQL insertion uses ODBC Driver 17 — ensure it's installed on your machine.
+-  Schema is defined (`public`) for Postgres, but not for MS SQL.
+-  Be careful with hardcoded credentials (replace them with env vars for production use).
 
 ---
 
